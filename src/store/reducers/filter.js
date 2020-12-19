@@ -9,7 +9,7 @@ export default function filter(state = initialState, action){
     case ADD_FILTER: {
       const filter = action.payload;
       if(state.filters[filter.type]) {
-        if(filter.type == 'price') {
+        if(filter.type === 'price') {
           return {
             ...state,
             filters: {
@@ -45,7 +45,7 @@ export default function filter(state = initialState, action){
     case REMOVE_FILTER: {
       const filter = action.payload;
       if(state.filters[filter.type]) {
-        const filters = state.filters[filter.type].filter((value) => value != filter.value)
+        const filters = state.filters[filter.type].filter((value) => value !== filter.value)
         return {
           ...state,
           filters: {
