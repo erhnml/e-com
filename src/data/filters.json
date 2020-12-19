@@ -1,0 +1,102 @@
+
+[
+  {
+    "type": "category",
+    "label": "Kategoriler",
+    "items": [
+      {
+        "value": "tshirt",
+        "label": "T-shirt"
+      },
+      {
+        "value": "shirt",
+        "label": "Gömlek"
+      },
+      {
+        "value": "trousers",
+        "label": "Pantolon"
+      }
+    ]
+  },
+  {
+    "type": "brand",
+    "label": "Markalar",
+    "items": [
+      {
+        "value": "polo",
+        "label": "U.S Polo Assn."
+      },
+      {
+        "value": "tommy",
+        "label": "Tommy Hilfiger"
+      },
+      {
+        "value": "mavi",
+        "label": "Mavi"
+      }
+    ]
+  },
+  {
+    "type": "size",
+    "label": "Bedenler",
+    "items": [
+      {
+        "value": "s",
+        "label": "S"
+      },
+      {
+        "value": "m",
+        "label": "M"
+      },
+      {
+        "value": "l",
+        "label": "L"
+      }
+    ]
+  },
+  {
+    "type": "color",
+    "label": "Renkler",
+    "items": [
+      {
+        "value": "blue",
+        "label": "Mavi"
+      },
+      {
+        "value": "pruple",
+        "label": "Mor"
+      },
+      {
+        "value": "orange",
+        "label": "Turuncu"
+      }
+    ]
+  },
+  {
+    "type": "price",
+    "label": "Fiyat Aralığı",
+    "items": [
+      {
+        "value": {
+          "min": 0,
+          "max": 25
+        },
+        "label": "0 - 25 TL"
+      },
+      {
+        "value": {
+          "min": 25,
+          "max": 50
+        },
+        "label": "25 - 50 TL"
+      },
+      {
+        "value": {
+          "min": 50,
+          "max": 100
+        },
+        "label": "50 - 100 TL"
+      }
+    ]
+  }
+]

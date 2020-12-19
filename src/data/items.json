@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "U.S. Polo Assn. Erkek T-Shirt",
+    "brand": "polo",
+    "price": 80.00,
+    "img": "https://productimages.hepsiburada.net/l/28/280-413/10240319553586.jpg",
+    "category": "tshirt",
+    "size": "s",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "name": "U.S. Polo Assn. Erkek T-Shirt Basic",
+    "brand": "polo",
+    "price": 40.00,
+    "img": "https://productimages.hepsiburada.net/l/41/280-413/10719066685490.jpg",
+    "category": "tshirt",
+    "size": "m",
+    "color": "pruple"
+  },
+  {
+    "id": 3,
+    "name": "U.S. Polo Assn. Erkek T-Shirt Yesil",
+    "brand": "polo",
+    "price": 20.00,
+    "img": "https://productimages.hepsiburada.net/l/44/280-413/10807438475314.jpg",
+    "category": "tshirt",
+    "size": "l",
+    "color": "orange"
+  },
+  {
+    "id": 4,
+    "name": "Tommy Hılfıger Erkek Gömlek MW0MW09878611 U001913 - Acık Yesıl",
+    "brand": "tommy",
+    "price": 70.00,
+    "img": "https://productimages.hepsiburada.net/l/39/280-413/10642964643890.jpg",
+    "category": "shirt",
+    "size": "s",
+    "color": "blue"
+  },
+  {
+    "id": 5,
+    "name": "Tommy Hilfiger Erkek Gömlek MW0MW09877611 U001911 - Yeşil",
+    "brand": "tommy",
+    "price": 45.00,
+    "img": "https://productimages.hepsiburada.net/l/39/280-413/10615372742706.jpg",
+    "category": "shirt",
+    "size": "m",
+    "color": "purple"
+  },
+  {
+    "id": 6,
+    "name": "Tommy Hilfiger Erkek Gömlek MW0MW09877611 U001911 - Kırmızı",
+    "brand": "tommy",
+    "price": 22.00,
+    "img": "https://productimages.hepsiburada.net/l/38/280-413/10598479036466.jpg",
+    "category": "shirt",
+    "size": "l",
+    "color": "orange"
+  },
+  {
+    "id": 7,
+    "name": "Hunter Mavi Premium Mavi Jean Pantolon 0020231266",
+    "brand": "mavi",
+    "price": 84.00,
+    "img": "https://productimages.hepsiburada.net/l/37/280-413/10554921779250.jpg",
+    "category": "trousers",
+    "size": "s",
+    "color": "blue"
+  },
+  {
+    "id": 8,
+    "name": "Martin Mavi Black Mavi Jean Pantolon 0037832939",
+    "brand": "mavi",
+    "price": 41.00,
+    "img": "https://productimages.hepsiburada.net/l/49/280-413/10984173928498.jpg",
+    "category": "trousers",
+    "size": "m",
+    "color": "pruple"
+  },
+  {
+    "id": 9,
+    "name": "Hunter Mavi Premium Zımparalı Mavi Jean Pantolon 0020233659",
+    "brand": "mavi",
+    "price": 23.00,
+    "img": "https://productimages.hepsiburada.net/l/49/280-413/10984181792818.jpg",
+    "category": "trousers",
+    "size": "l",
+    "color": "orange"
+  }
+]
