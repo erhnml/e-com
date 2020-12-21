@@ -38,7 +38,7 @@ export default function ItemList() {
     <Grid container spacing={4}>
     {
       itemList.map((item, index) => (
-        <Grid key={index} item md={4}><Item item={item} /></Grid>
+        <Grid key={index} item md={4} sm={12}><Item item={item} /></Grid>
       ))
     }
   </Grid>

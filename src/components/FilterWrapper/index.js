@@ -18,8 +18,14 @@ const Wrapper = styled.div`
   border-bottom: 1px solid #e5e5e5;
   padding-left: 20px;
   padding-bottom: 10px;
+  @media only screen and (max-width: 728px) {
+    padding-left: 10px;
+  }
 `;
 const FilterTitle= styled.h3`
   margin-bottom: 5px;
   font-size: 16px;
+  @media only screen and (max-width: 728px) {
+    font-size: 14px;
+  }
 `;

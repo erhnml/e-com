@@ -16,10 +16,10 @@ export default function App() {
     <Header />
     <Content>
       <Grid container  spacing={2}>
-        <Grid item md={3} >
+        <Grid item md={3} xs={5}>
           <Filter />
         </Grid>
-        <Grid item md={9} >
+        <Grid item md={9} xs={7}>
           <ItemList />
         </Grid>
       </Grid>
