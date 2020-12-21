@@ -86,7 +86,7 @@ const PopoverContent = styled.div`
   width: 500px;
   height: 300px;
   font-size: 16px;
-  @media only screen and (max-width: 728px) {
+  @media only screen and (max-width: 768px) {
     width: 100%;
   }
 `;
